@@ -13,7 +13,7 @@ The repo is a combination of what were separate repos before.
 
 ### Phenomena repos
 - Processing client for HelioRoom Simulation [repo](https://github.com/ltg-uic/hr-phen-processing-client)
-- Simulation logic for Phenomena Server [repo](https://github.com/ltg-uic/hr-phen-logic)
+- Simulation logic for Phenomena Server [repo](https://github.com/ltg-uic/hr-phen-java-logic)
 
 ## Legacy
 - ActionScript client for HelioRoom Simulation [repo](https://github.com/ltg-uic/hr-phen-flex-client)
