@@ -12,10 +12,11 @@ The repo is a combination of what were separate repos before.
 - Student iOS tablet app [repo](https://github.com/ltg-uic/hr-ios-app) 
 
 ### Phenomena repos
-- ltg-uic/helioroom-client-processing
-- ltg-uic/helioroom-phenomena
+- Processing client for HelioRoom Simulation [repo](https://github.com/ltg-uic/hr-phen-processing-client)
+- Simulation logic for Phenomena Server [repo](https://github.com/ltg-uic/hr-phen-logic)
 
 ## Legacy
-- ltg-uic/helioroom-sim-flex-client
-- ltg-uic/helioroom-notifier
-- ltg-uic/helioroom-android-teacher-dash
+- ActionScript client for HelioRoom Simulation [repo](https://github.com/ltg-uic/hr-phen-flex-client)
+- Notifier agent [repo](https://github.com/ltg-uic/hr-java-notifier-agent)
+- Android teacher control panel for HelioRoom simulation [repo](https://github.com/ltg-uic/hr-phen-android-teacher-dash)
+
